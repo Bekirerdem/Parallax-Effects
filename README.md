@@ -1,2 +1,2 @@
-# Parallax-Effects
+# Parallax - Effects
 
